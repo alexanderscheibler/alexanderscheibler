@@ -53,7 +53,7 @@ Most of my professional work lives in private repos, but here's what's public:
 |---|---|
 | [Code Samples](https://github.com/alexanderscheibler/code_samples) | **Python** from 2019, revisited: **OOP**, **API** queries, **data processing**, **unittest** + **pytest**. Found real bugs on the re-test. History matters. |
 | [AppCheckWizard](https://github.com/alexanderscheibler/appcheckwizard.com) | My portfolio site, built with **Next.js** and **TypeScript**. |
-| [GNB News Digest](https://github.com/alexanderscheibler/gnb-news-digest) | User subscription through e-mail for daily delivery of the news published by the GNB. Scrapping with **Python** (requests + BeautifulSoup), **API** with Cloudflare Workers (**TypeScript**), **PostgreSQL** Database with Neon, E-mail service with Resend.|
+| [GNB News Digest](https://github.com/alexanderscheibler/gnb-news-digest) | User subscription through e-mail for daily delivery of the news published by the GNB. Scrapping with **Python** (requests + BeautifulSoup), **API** with Cloudflare Workers (**TypeScript**), **PostgreSQL** Database with Neon, E-mail service with Resend, anti-bot: Cloudflare Turnstile.|
 | [Travel Page](https://github.com/alexanderscheibler/travel) | Responsive front-end from a design mockup — infinite carousel with swipe, hamburger menu, pixel-perfect diagonal dividers, pure CSS + vanilla JS. No Bootstrap. No Tailwind. Full build–test–refactor cycle. |
 
 ---
