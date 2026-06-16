@@ -51,10 +51,12 @@ Most of my professional work lives in private repos, but here's what's public:
 
 | Project | What it shows |
 |---|---|
+| [Advanced QA Framework for Playwright E2E](https://github.com/alexanderscheibler/advanced-qa-playwright) | A **Claude Skill** for reviewing **Playwright** test suites or designing **E2E** automation frameworks. Built from my experience developing and maintaining real-world Playwright solutions. |
 | [Code Samples](https://github.com/alexanderscheibler/code_samples) | **Python** from 2019, revisited: **OOP**, **API** queries, **data processing**, **unittest** + **pytest**. Found real bugs on the re-test. History matters. |
 | [AppCheckWizard](https://github.com/alexanderscheibler/appcheckwizard.com) | My portfolio site, built with **Next.js** and **TypeScript**. |
 | [GNB News Digest](https://github.com/alexanderscheibler/gnb-news-digest) | User subscription through e-mail for daily delivery of the news published by the GNB. Scraping with **Python** (requests + BeautifulSoup), **API** with Cloudflare Workers (**TypeScript**), **PostgreSQL** Database with Neon, E-mail service with Resend, anti-bot: Cloudflare Turnstile.|
-| [Travel Page](https://github.com/alexanderscheibler/travel) | Responsive front-end from a design mockup — infinite carousel with swipe, hamburger menu, pixel-perfect diagonal dividers, pure CSS + vanilla JS. No Bootstrap. No Tailwind. Full build–test–refactor cycle. |
+| [Travel Page](https://github.com/alexanderscheibler/travel) | Responsive front-end from a design mockup — infinite carousel with swipe, hamburger menu, pixel-perfect diagonal dividers, **pure CSS + vanilla JS**. No Bootstrap. No Tailwind. Full build–test–refactor cycle. |
+| [Check Product Passport](https://www.productpassport.ca) | **Full-stack** platform built with **FastAPI**, **Vite**, **Tailwind CSS**, **DuckDB**, and **Cloudflare**. Processes and serves **large-scale Open Food Facts data** through a performant API and modern web application. |
 
 ---
 
