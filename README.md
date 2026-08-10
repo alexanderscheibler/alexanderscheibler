@@ -4,8 +4,6 @@
 
 I care about getting it done - and getting it right.
 
-Open to new opportunities.
-
 ---
 ### Recent highlight
 **Speaker, Atlantic Security Conference 2026**
